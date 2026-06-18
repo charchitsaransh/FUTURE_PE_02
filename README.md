@@ -18,8 +18,7 @@ Local Haur Saloon Ayodhya.
 
 ### Tools Used
 - ChatGPT
-- AI video tools
-- CapCut
+- Claud AI
 
 ### Use Case
 This system can be used by:
